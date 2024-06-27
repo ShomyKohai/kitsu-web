@@ -152,6 +152,7 @@ module.exports = function(environment) {
     },
 
     'polyfill-io': {
+      src: 'https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js',
       min: true,
       features: [
         'default',
