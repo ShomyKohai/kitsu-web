@@ -43,7 +43,7 @@ Translations use the ICU Message Syntax format. [Read the syntax documentation](
 
 ## Issues
 
-Looking to create an issue? Open a [bug report](https://kitsu.io/feedback/bugs) or [feature request](https://kitsu.io/feedback/feature-requests) on Kitsu.
+Looking to create an issue? Open a [bug report](https://kitsu.app/feedback/bugs) or [feature request](https://kitsu.app/feedback/feature-requests) on Kitsu.
 
 ## Contributors
 

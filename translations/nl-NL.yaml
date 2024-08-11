@@ -369,7 +369,7 @@ components:
     contact: "Contact" #Email address
     terms: "Voorwaarden"
     privacy: "Privacy"
-    status: "Status" #Service status - status.kitsu.io
+    status: "Status" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Bewerken"
@@ -849,7 +849,7 @@ settings:
     loading: "Imports Laden…"
     status: "Status:"
     entries: "Totaal aantal items gevonden:"
-    error: "Het lijkt erop dat je import is mislukt :( &mdash; We willen het voor fixen, dus '<a href=\"mailto:help@kitsu.io\">'email'</a>' ons."
+    error: "Het lijkt erop dat je import is mislukt :( &mdash; We willen het voor fixen, dus '<a href=\"mailto:help@kitsu.app\">'email'</a>' ons."
     more: "Meer Laden"
   index:
     header: "Profiel"

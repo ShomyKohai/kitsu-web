@@ -44,7 +44,7 @@ module.exports = function(environment) {
     },
 
     kitsu: {
-      APIHost: environment === 'production' ? '' : 'https://kitsu.io',
+      APIHost: environment === 'production' ? '' : 'https://kitsu.app',
       isStaging: IS_STAGING_ENV,
       isProduction: environment === 'production',
       env: environment
@@ -107,10 +107,10 @@ module.exports = function(environment) {
       debug: environment !== 'production',
       ravenOptions: {
         whitelistUrls: [
-          'kitsu.io/assets',
-          'staging.kitsu.io/assets'
+          'kitsu.app/assets',
+          'staging.kitsu.app/assets'
         ],
-        includePaths: [/https?:\/\/(staging\.)?kitsu\.io/],
+        includePaths: [/https?:\/\/(staging\.)?kitsu\.app/],
         environment: process.env.HEROKU_EMBER_APP
       }
     },

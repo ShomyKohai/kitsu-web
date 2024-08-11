@@ -369,7 +369,7 @@ components:
     contact: "اتصل بنا" #Email address
     terms: "بنود الاستخدام"
     privacy: "الخصوصية"
-    status: "الحالة" #Service status - status.kitsu.io
+    status: "الحالة" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "تعديل"
@@ -849,7 +849,7 @@ settings:
     loading: "تحميل الواردات…"
     status: "الحالة:"
     entries: "إجمالي المدخلات التي تم العثور عليها:"
-    error: "يبدو أن استيرادك قد فشل:( &mdash; نحن نريد إصلاح هذا من أجلك لذا يرجى '<a href=\"mailto:help@kitsu.io\">'مراسلتنا'</a>'."
+    error: "يبدو أن استيرادك قد فشل:( &mdash; نحن نريد إصلاح هذا من أجلك لذا يرجى '<a href=\"mailto:help@kitsu.app\">'مراسلتنا'</a>'."
     more: "تحميل المزيد"
   index:
     header: "الملف الشخصي"

@@ -29,7 +29,7 @@ module.exports = function(deployTarget) {
           fields: [
             {
               title: 'View',
-              value: `https://${context.revisionData.revisionKey}.production.kitsu.io/`,
+              value: `https://${context.revisionData.revisionKey}.production.kitsu.app/`,
               short: false
             }
           ]

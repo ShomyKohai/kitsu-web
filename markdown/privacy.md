@@ -6,9 +6,9 @@ Effective date: 12/15/2020
 
 Welcome to  **Kitsu, Inc.**
 
-Kitsu, Inc. (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates kitsu.io and Kitsu mobile application (hereinafter referred to as &quot; **Service**&quot;).
+Kitsu, Inc. (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates kitsu.app and Kitsu mobile application (hereinafter referred to as &quot; **Service**&quot;).
 
-Our Privacy Policy governs your visit to kitsu.io and Kitsu mobile application, and explains how we collect, safeguard and disclose information that results from your use of our Service.
+Our Privacy Policy governs your visit to kitsu.app and Kitsu mobile application, and explains how we collect, safeguard and disclose information that results from your use of our Service.
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -16,7 +16,7 @@ Our Terms and Conditions (&quot; **Terms**&quot;) govern all use of our Service 
 
 1. **Definitions**
 
-**SERVICE** means the kitsu.io website and Kitsu mobile application operated by Kitsu, Inc.
+**SERVICE** means the kitsu.app website and Kitsu mobile application operated by Kitsu, Inc.
 
 **PERSONAL DATA**  means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -156,7 +156,7 @@ If you are a resident of the European Union (EU) and European Economic Area (EEA
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at help@kitsu.io.
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at help@kitsu.app.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -188,7 +188,7 @@ According to CalOPPA we agree to the following:
 
   1. users will be notified of any privacy policy changes on our Privacy Policy Page;
 
-  1. users are able to change their personal information by emailing us at help@kitsu.io.
+  1. users are able to change their personal information by emailing us at help@kitsu.app.
 
 Our Policy on &quot;Do Not Track&quot; Signals:
 
@@ -228,7 +228,7 @@ Please note, if you ask us to delete or stop selling your data, it may impact yo
 
 To exercise your California data protection rights described above, please send your request(s) by one of the following means:
 
-By email: help@kitsu.io
+By email: help@kitsu.app
 
 Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.
 
@@ -358,4 +358,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: help@kitsu.io
+By email: help@kitsu.app

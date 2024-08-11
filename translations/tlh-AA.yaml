@@ -369,7 +369,7 @@ components:
     contact: "contact" #Email address
     terms: "wabmey"
     privacy: "Privacy"
-    status: "Status" #Service status - status.kitsu.io
+    status: "Status" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Edit"
@@ -849,7 +849,7 @@ settings:
     loading: "Loading Imports…"
     status: "Status:"
     entries: "Total Entries Found:"
-    error: "law' 'oH rur luj DughajmoH :( &mdash; law' 'oH rur luj DughajmoH :( ghu'vam tI' '<a href=\"mailto:help@kitsu.io\">'email'</a>' vaj bel SoH Suq wIneH maHvaD."
+    error: "law' 'oH rur luj DughajmoH :( &mdash; law' 'oH rur luj DughajmoH :( ghu'vam tI' '<a href=\"mailto:help@kitsu.app\">'email'</a>' vaj bel SoH Suq wIneH maHvaD."
     more: "Load More"
   index:
     header: "Profile"

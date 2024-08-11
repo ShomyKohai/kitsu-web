@@ -369,7 +369,7 @@ components:
     contact: "Kontak" #Email address
     terms: "Mga Tuntunin"
     privacy: "Pribasidad"
-    status: "Status" #Service status - status.kitsu.io
+    status: "Status" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "I-edit"
@@ -849,7 +849,7 @@ settings:
     loading: "Loading Imports…"
     status: "Status:"
     entries: "Total na Mga Entry na Nakita:"
-    error: "Mukhang na-fail ang pag-import mo :( &mdash; Nais naming ito maayos para sayo, kaya '<a href=\"mailto:help@kitsu.io\">'I-email'</a>' mo kami."
+    error: "Mukhang na-fail ang pag-import mo :( &mdash; Nais naming ito maayos para sayo, kaya '<a href=\"mailto:help@kitsu.app\">'I-email'</a>' mo kami."
     more: "Load More"
   index:
     header: "Profile"

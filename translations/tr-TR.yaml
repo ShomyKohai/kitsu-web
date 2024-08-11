@@ -369,7 +369,7 @@ components:
     contact: "İletişim" #Email address
     terms: "Şartlar"
     privacy: "Gizlilik"
-    status: "Statü" #Service status - status.kitsu.io
+    status: "Statü" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Düzenle"
@@ -849,7 +849,7 @@ settings:
     loading: "İçe aktarmalar yükleniyor…"
     status: "Durum:"
     entries: "Tüm Bulunan Girdiler:"
-    error: "İçe aktarımın başarısız olmuşa benziyor :( &mdash; Bunu düzeltmek istiyoruz o yüzden lütfen '<a href=\"mailto:help@kitsu.io\">'email'</a>' a mail atınız."
+    error: "İçe aktarımın başarısız olmuşa benziyor :( &mdash; Bunu düzeltmek istiyoruz o yüzden lütfen '<a href=\"mailto:help@kitsu.app\">'email'</a>' a mail atınız."
     more: "Daha Fazla Yükle"
   index:
     header: "Profil"

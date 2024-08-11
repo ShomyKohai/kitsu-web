@@ -3,9 +3,9 @@ import { helper } from 'ember-helper';
 export function imgixUrl([src, params = {}]) {
   const url = new URL(
     src
-      .replace('https://media.kitsu.io/', 'https://kitsu.imgix.net/')
+      .replace('https://media.kitsu.app/', 'https://kitsu.imgix.net/')
       .replace(
-        'https://media-staging.kitsu.io/',
+        'https://media-staging.kitsu.app/',
         'https://kitsu-staging.imgix.net/'
       )
   );

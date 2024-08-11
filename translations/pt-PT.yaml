@@ -369,7 +369,7 @@ components:
     contact: "Contacto" #Email address
     terms: "Termos"
     privacy: "Privacidade"
-    status: "Estado" #Service status - status.kitsu.io
+    status: "Estado" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Editar"
@@ -849,7 +849,7 @@ settings:
     loading: "Carregando Importações…"
     status: "Estado:"
     entries: "Total de Entradas Encontradas:"
-    error: "Parece que a tua importação falhou :( &mdash; Nós queremos corrigir isto para ti então envia-nos um '<a href=\"mailto:help@kitsu.io\">'e-mail'</a>' (em inglês)."
+    error: "Parece que a tua importação falhou :( &mdash; Nós queremos corrigir isto para ti então envia-nos um '<a href=\"mailto:help@kitsu.app\">'e-mail'</a>' (em inglês)."
     more: "Carregar Mais"
   index:
     header: "Perfil"
