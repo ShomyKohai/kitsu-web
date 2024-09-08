@@ -2,7 +2,7 @@ import Component from '@ember/component';
 import { get, set } from '@ember/object';
 
 export default Component.extend({
-  isShown: true || window.explainRedirect,
+  isShown: window.explainRedirect,
 
   actions: {
     dismiss() {
