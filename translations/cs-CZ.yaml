@@ -369,7 +369,7 @@ components:
     contact: "Kontakt" #Email address
     terms: "Podmínky"
     privacy: "Soukromí"
-    status: "Status" #Service status - status.kitsu.io
+    status: "Status" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Upravit"
@@ -849,7 +849,7 @@ settings:
     loading: "Načítání importů…"
     status: "Status:"
     entries: "Celkem nalezeno položek:"
-    error: "Zdá se, že váš import selhal :( &mdash; Chceme to pro vás opravit, proto nás prosím '<a href=\"mailto:help@kitsu.io\">'kontaktujte'</a>' nás."
+    error: "Zdá se, že váš import selhal :( &mdash; Chceme to pro vás opravit, proto nás prosím '<a href=\"mailto:help@kitsu.app\">'kontaktujte'</a>' nás."
     more: "Načíst další"
   index:
     header: "Profil"

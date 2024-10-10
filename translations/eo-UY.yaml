@@ -369,7 +369,7 @@ components:
     contact: "Kontakto" #Email address
     terms: "Kondiĉaro"
     privacy: "Privateco"
-    status: "Stato" #Service status - status.kitsu.io
+    status: "Stato" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Redakti"
@@ -849,7 +849,7 @@ settings:
     loading: "Ŝargas importojn…"
     status: "Stato:"
     entries: "Elementoj trovitaj entute:"
-    error: "Aspektas, ke via importo malsukcesis :( &mdash; Ni volas fiksi tion por vi, do bonvolu '<a href=\"mailto:help@kitsu.io\">'sendi retpoŝton'</a>' al ni."
+    error: "Aspektas, ke via importo malsukcesis :( &mdash; Ni volas fiksi tion por vi, do bonvolu '<a href=\"mailto:help@kitsu.app\">'sendi retpoŝton'</a>' al ni."
     more: "Ŝargi pli"
   index:
     header: "Profilo"

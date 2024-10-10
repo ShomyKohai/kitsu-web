@@ -369,7 +369,7 @@ components:
     contact: "Nous contacter" #Email address
     terms: "Termes et conditions"
     privacy: "Confidentialité"
-    status: "État" #Service status - status.kitsu.io
+    status: "État" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Éditer"
@@ -849,7 +849,7 @@ settings:
     loading: "Chargement des imports…"
     status: "État :"
     entries: "Nombre total d'entrées trouvées :"
-    error: "Il semble que l'importation ait échoué :( &mdash; Nous voulons vous apporter notre aide mais nous avons pour cela besoin de la vôtre : envoyez nous un petit mail '<a href=\"mailto:help@kitsu.io\">'ici'</a>'."
+    error: "Il semble que l'importation ait échoué :( &mdash; Nous voulons vous apporter notre aide mais nous avons pour cela besoin de la vôtre : envoyez nous un petit mail '<a href=\"mailto:help@kitsu.app\">'ici'</a>'."
     more: "Voir Plus"
   index:
     header: "Profil"

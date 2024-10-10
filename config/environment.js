@@ -44,7 +44,7 @@ module.exports = function(environment) {
     },
 
     kitsu: {
-      APIHost: environment === 'production' ? '' : 'http://kitsu.localhost:42069',
+      APIHost: environment === 'production' ? '' : 'https://kitsu.app',
       isStaging: IS_STAGING_ENV,
       isProduction: environment === 'production',
       env: environment
@@ -107,10 +107,10 @@ module.exports = function(environment) {
       debug: environment !== 'production',
       ravenOptions: {
         whitelistUrls: [
-          'kitsu.io/assets',
-          'staging.kitsu.io/assets'
+          'kitsu.app/assets',
+          'staging.kitsu.app/assets'
         ],
-        includePaths: [/https?:\/\/(staging\.)?kitsu\.io/],
+        includePaths: [/https?:\/\/(staging\.)?kitsu\.app/],
         environment: process.env.HEROKU_EMBER_APP
       }
     },
@@ -152,6 +152,7 @@ module.exports = function(environment) {
     },
 
     'polyfill-io': {
+      src: 'https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js',
       min: true,
       features: [
         'default',

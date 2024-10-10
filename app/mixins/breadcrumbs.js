@@ -46,7 +46,7 @@ export default Mixin.create({
         '@type': 'ListItem',
         position: 1,
         item: {
-          '@id': 'https://kitsu.io',
+          '@id': 'https://kitsu.app',
           name: 'Kitsu'
         }
       }]
@@ -64,7 +64,7 @@ export default Mixin.create({
         '@type': 'ListItem',
         position: data.itemListElement.length + 1,
         item: {
-          '@id': `https://kitsu.io${hrefTo(this, path)}`,
+          '@id': `https://kitsu.app${hrefTo(this, path)}`,
           name: breadcrumb
         }
       });

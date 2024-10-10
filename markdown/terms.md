@@ -76,7 +76,7 @@ NOTICE REQUIREMENTS
 AGENT FOR CLAIMS  
 225 Squibbs Rd  
 Blairsville, PA 15717  
-E-Mail: legal@kitsu.io  
+E-Mail: legal@kitsu.app  
 
 
 **3.  DISCLAIMER OF WARRANTY; LIMITATION OF LIABILITY**

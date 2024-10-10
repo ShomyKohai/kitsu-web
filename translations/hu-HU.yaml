@@ -369,7 +369,7 @@ components:
     contact: "Kapcsolat" #Email address
     terms: "Feltételek"
     privacy: "Láthatóság"
-    status: "Státusz" #Service status - status.kitsu.io
+    status: "Státusz" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Szerkesztés"
@@ -849,7 +849,7 @@ settings:
     loading: "Importok Betöltése…"
     status: "Státusz:"
     entries: "Összes találat:"
-    error: "Úgy tűnik, az importálás nem sikerült :( &mdash; Szeretnénk kijavítani ezt a probémát, úgyhogy kérlek írj egy '<a href=\"mailto:help@kitsu.io\">'emailt'</a>' nekünk."
+    error: "Úgy tűnik, az importálás nem sikerült :( &mdash; Szeretnénk kijavítani ezt a probémát, úgyhogy kérlek írj egy '<a href=\"mailto:help@kitsu.app\">'emailt'</a>' nekünk."
     more: "Több Betöltése"
   index:
     header: "Profil"

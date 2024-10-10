@@ -369,7 +369,7 @@ components:
     contact: "Επικοινωνία" #Email address
     terms: "Όροι"
     privacy: "Ιδιωτικοτητα"
-    status: "Κατάσταση" #Service status - status.kitsu.io
+    status: "Κατάσταση" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Επεξεργασία"
@@ -849,7 +849,7 @@ settings:
     loading: "Φόρτωση Εισαγωγών…"
     status: "Κατάσταση:"
     entries: "Σύνολο Καταχωρήσεων που βρέθηκαν:"
-    error: "It seems like your import has failed :( &mdash; We want to get this fixed for you so please '<a href=\"mailto:help@kitsu.io\">'email'</a>' us."
+    error: "It seems like your import has failed :( &mdash; We want to get this fixed for you so please '<a href=\"mailto:help@kitsu.app\">'email'</a>' us."
     more: "Φόρτωση Περισσότερων"
   index:
     header: "Προφίλ"

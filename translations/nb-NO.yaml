@@ -369,7 +369,7 @@ components:
     contact: "Kontakt oss" #Email address
     terms: "Vilkår"
     privacy: "Personvern"
-    status: "Status" #Service status - status.kitsu.io
+    status: "Status" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Rediger"
@@ -849,7 +849,7 @@ settings:
     loading: "Laster inn import…"
     status: "Status:"
     entries: "Totale oppføringer funnet:"
-    error: "Det ser ut som din import mislyktes :( &mdash; Vi vil gjerne hjelpe deg å fikse dette. Vennligst send oss en '<a href=\"mailto:help@kitsu.io\">'email'</a>' om problemet."
+    error: "Det ser ut som din import mislyktes :( &mdash; Vi vil gjerne hjelpe deg å fikse dette. Vennligst send oss en '<a href=\"mailto:help@kitsu.app\">'email'</a>' om problemet."
     more: "Last mer"
   index:
     header: "Profil"

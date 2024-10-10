@@ -369,7 +369,7 @@ components:
     contact: "Contattaci" #Email address
     terms: "Condizioni"
     privacy: "Privacy"
-    status: "Stato" #Service status - status.kitsu.io
+    status: "Stato" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Modifica"
@@ -849,7 +849,7 @@ settings:
     loading: "Caricamento delle esportazioni…"
     status: "Stato:"
     entries: "Totale voci trovate:"
-    error: "Pare che la tua importazione non sia riuscita :( &mdash; Vogliamo correggere questo problema per te, quindi ti preghiamo di '<a href=\"mailto:help@kitsu.io\">'inviarci un'email'</a>'."
+    error: "Pare che la tua importazione non sia riuscita :( &mdash; Vogliamo correggere questo problema per te, quindi ti preghiamo di '<a href=\"mailto:help@kitsu.app\">'inviarci un'email'</a>'."
     more: "Carica di più"
   index:
     header: "Profilo"

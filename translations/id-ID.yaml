@@ -369,7 +369,7 @@ components:
     contact: "Kontak" #Email address
     terms: "Ketentuan"
     privacy: "Privasi"
-    status: "Status" #Service status - status.kitsu.io
+    status: "Status" #Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Sunting"
@@ -849,7 +849,7 @@ settings:
     loading: "Memuat Impor…"
     status: "Status:"
     entries: "Total Entri Ditemukan:"
-    error: "Sepertinya impor telah gagal :( &mdash; Kami ingin memperbaiki ini untukmu, tolong kirim '<a href=\"mailto:help@kitsu.io\">'email'</a>' kepada kami."
+    error: "Sepertinya impor telah gagal :( &mdash; Kami ingin memperbaiki ini untukmu, tolong kirim '<a href=\"mailto:help@kitsu.app\">'email'</a>' kepada kami."
     more: "Muat Lebih Banyak"
   index:
     header: "Profil"

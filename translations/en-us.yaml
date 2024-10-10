@@ -449,7 +449,7 @@ components:
     contact: "Contact" # Email address
     terms: "Terms"
     privacy: "Privacy"
-    status: "Status" # Service status - status.kitsu.io
+    status: "Status" # Service status - status.kitsu.app
   stream-feed:
     create-post:
       edit: "Edit"
@@ -957,7 +957,7 @@ settings:
     loading: "Loading Imports…"
     status: "Status:"
     entries: "Total Entries Found:"
-    error: "It seems like your import has failed :( &mdash; We want to get this fixed for you so please '<a href=\"mailto:help@kitsu.io\">'email'</a>' us."
+    error: "It seems like your import has failed :( &mdash; We want to get this fixed for you so please '<a href=\"mailto:help@kitsu.app\">'email'</a>' us."
     more: "Load More"
   index:
     header: "Profile"
